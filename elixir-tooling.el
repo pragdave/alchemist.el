@@ -26,7 +26,6 @@ When elixir-tooling mode is enabled, the follwing elixir modes will be loaded:
          (require 'elixir-utils)
          (require 'elixir-compilation)
          (require 'elixir-compile)
-         (require 'elixir-execute)
          (require 'elixir-mix))))
 
 (provide 'elixir-tooling)
